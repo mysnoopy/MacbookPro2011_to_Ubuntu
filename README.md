@@ -1,9 +1,9 @@
-# Octoix AI Server Setup  
+# Custom setup for Ubuntu Linux for MacBook Pro 2011 or Intel CPU MacBook  
 ## 2011 MacBook Pro Ubuntu Server "Golden Image"
 
 This script prepares a **2011 MacBook Pro** to run as a **headless Ubuntu AI / home-lab server** with optimized networking, power management, and system performance.
 
-It is designed for **Octoix AI node deployments**, home labs, Kubernetes edge nodes, or lightweight private AI infrastructure.
+It is designed for **Ubuntu Linux node deployments**, home labs, Kubernetes edge nodes, or lightweight private AI infrastructure.
 
 ---
 
