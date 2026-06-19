@@ -4,7 +4,7 @@
 # Features: Interactive IP config, Headless, Dual-IP, No-Sleep, 8GB Swap, Fan Control
 
 echo "==============================================="
-echo "   Octoix AI Server Setup (Interactive IP)     "
+echo "         Server Setup (Interactive IP)         "
 echo "==============================================="
 
 # 1. Collect User Input
