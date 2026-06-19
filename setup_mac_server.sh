@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- OCTOIX AI: 2011 MacBook Pro Ubuntu Server "Golden Image" Setup ---
+# --- 2011 MacBook Pro Ubuntu Server "Golden Image" Setup ---
 # Features: Interactive IP config, Headless, Dual-IP, No-Sleep, 8GB Swap, Fan Control
 
 echo "==============================================="
